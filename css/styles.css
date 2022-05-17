@@ -177,6 +177,7 @@ p{
     .nav-link{
         font-size: 2rem;
         font-weight: 400;
+        text-align: left;
     }
     .navbar-brand{
         font-size: 3.5rem;
