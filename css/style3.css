@@ -1,0 +1,14 @@
+body{
+    font-family:'Montserrat';
+    background-color: #ff4c68;
+    text-align: center;
+    margin-top: 15%;
+} 
+h2{
+    color: white;
+}
+.testimonial-image{
+    border-radius: 100%;
+    width: 15%;
+    margin: 2%;
+}
